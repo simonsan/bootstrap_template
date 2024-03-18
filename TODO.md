@@ -1,6 +1,13 @@
 # TODO
 
-- create empty repository
+- create repositories for:
+  - {{github_org}}.github.io
+  - {{project-name}}
+  - {{project-name}}-assets
+  - {{project-name}}-design
+  - {{project-name}}-dev-docs
+  - {{project-name}}-docs
+  - homebrew-tap
 
 - search for `TODO` and fix the issues
 

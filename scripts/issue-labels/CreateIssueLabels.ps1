@@ -8,5 +8,5 @@ $json = Get-Content '.\repo-labels.json' | Out-String | ConvertFrom-Json
 
 # if this errors, remove the '' around /repos/.../labels/' 
 foreach ($record in $json) {
-    gh api --method POST -H "Accept: application/vnd.github+json" -H "X-GitHub-Api-Version: 2022-11-28" '/repos/{{github-org}}/{{github-repo-name}}/labels' -f name=$($record.name) -f description=$($record.description) -f color=$($record.color)
+    gh api --method POST -H "Accept: application/vnd.github+json" -H "X-GitHub-Api-Version: 2022-11-28" '/repos/{{github_org}}/TODO/labels' -f name=$($record.name) -f description=$($record.description) -f color=$($record.color)
 }

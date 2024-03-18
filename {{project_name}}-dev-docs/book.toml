@@ -1,0 +1,50 @@
+[book]
+authors = ["the {{project-name}} authors"]
+description = "{{project-name}} - TODO"
+language = "en"
+multilingual = false
+src = "src"
+title = "{{project-name}} developer documentation"
+
+[preprocessor.last-changed]
+command = "mdbook-last-changed"
+renderer = ["html"]
+
+[output.html]
+curly-quotes = true
+default-theme = "ayu"
+site-url = "/dev-docs/"
+git-repository-url = "https://github.com/{{github_org}}/dev-docs"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/{{github_org}}/docs/edit/main/{path}"
+# cname = "{{project-name}}.cli.rs"
+additional-css = ["./styles/last-changed.css"]
+
+[output.html.fold]
+enable = true
+level = 0
+
+[output.html.redirect]
+# Redirects in the form of "old-path" = "new-path", where the new path
+# is relative to the old path.
+# "getting_started.html" = "user_guide/getting_started.html"
+# "FAQ.html" = "user_guide/FAQ.html"
+# "installation.html" = "user_guide/installation.html"
+
+[output.pandoc]
+optional = true
+# hosted-html = "https://{{project-name}}.cli.rs/dev-docs/"
+hosted-html = "https://{{github_org}}.github.io/dev-docs/"
+
+[output.pandoc.profile.pdf]
+output-file = "{{project-name}}-dev-docs.pdf"
+pdf-engine = "lualatex"
+
+[output.pandoc.profile.pdf.variables]
+mainfont = "Noto Serif"
+sansfont = "Noto Sans"
+monofont = "Noto Sans Mono"
+mainfontfallback = ["NotoSerifCJKSC:"]
+geometry = ["margin=1in"]
+linkcolor = "blue"
+urlcolor = "red"

@@ -15,7 +15,7 @@ body:
       value: |
         Please note that this is only for proposing new features to **{{project-name}}** itself. 
 
-        If you have a question about how to use **{{project-name}}**, please use the [discussions](https://github.com/orgs/{{github-org}}/discussions) instead.
+        If you have a question about how to use **{{project-name}}**, please use the [discussions](https://github.com/orgs/{{github_org}}/discussions) instead.
 
   - type: checkboxes
     id: product-scope

@@ -25,14 +25,14 @@ TODO
 ## Contact
 
 You can ask questions in the
-[Discussions](https://github.com/orgs/{{github-org}}/discussions) or have a look
+[Discussions](https://github.com/orgs/{{github_org}}/discussions) or have a look
 at the [FAQ](TODO).
 
 | Contact       | Where?                                                                                                                          |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Issue Tracker | [GitHub Issues](https://www.github.com/{{github-org}}/{{github-repo-name}}/issues/new/choose)                                   |
+| Issue Tracker | [GitHub Issues](https://www.github.com/{{github_org}}/{{github_repo_name}}/issues/new/choose)                                   |
 | Discord       | [![Discord](https://dcbadge.vercel.app/api/server/{{TODO4124124e14}}?style=flat-square)](https://discord.gg/{{TODO4124124e14}}) |
-| Discussions   | [GitHub Discussions](https://github.com/orgs/{{github-org}}/discussions)                                                        |
+| Discussions   | [GitHub Discussions](https://github.com/orgs/{{github_org}}/discussions)                                                        |
 
 ## Installation
 
@@ -48,11 +48,11 @@ in your browser.
 ## Contributing
 
 Found a bug?
-[Open an issue!](https://www.github.com/{{github-org}}/{{github-repo-name}}/issues/new/choose)
+[Open an issue!](https://www.github.com/{{github_org}}/{{github_repo_name}}/issues/new/choose)
 
 Got an idea for an improvement? Don't keep it to yourself!
 
-- [Contribute fixes](https://www.github.com/{{github-org}}/{{github-repo-name}}/contribute)
+- [Contribute fixes](https://www.github.com/{{github_org}}/{{github_repo_name}}/contribute)
   or new features via pull requests!
 
 Please make sure, that you read the [contribution guide](TODO).
