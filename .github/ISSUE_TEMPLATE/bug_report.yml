@@ -14,7 +14,7 @@ body:
       value: |
         Please note that this is only for reporting bugs in **{{project-name}}** itself. 
 
-        If you have a question about how to use **{{project-name}}**, please use the [discussions](TODO) instead.
+        If you have a question about how to use **{{project-name}}**, please use the [discussions](https://github.com/orgs/{{github-org}}/discussions) instead.
 
   - type: checkboxes
     id: product-scope
@@ -60,7 +60,7 @@ body:
     attributes:
       label: Bug prevalence
       description: How often do you encounter this bug?
-      placeholder: "Example: Whenever I run `TODO` (100% of the time), or sometimes when I run `TODO` (50% of the time)"
+      placeholder: "Example: Whenever I run `{{project-name}} <command>` (100% of the time), or sometimes when I run `{{project-name}} <command>` (50% of the time)"
     validations:
       required: true
 
@@ -217,8 +217,8 @@ body:
         Please make sure, you have searched/tried the following resources before submitting this issue:
 
         * search our [documentation](TODO)
-        * search our [discussions](TODO)
-        * search the [issue list (incl. closed issues)](TODO)
+        * search our [discussions](https://github.com/orgs/{{github-org}}/discussions)
+        * search the [issue list (incl. closed issues)](https://www.github.com/{{github-org}}/{{github-repo-name}}/issues?q=is%3Aissue+is%3Aclosed)
 
   - type: markdown
     attributes:

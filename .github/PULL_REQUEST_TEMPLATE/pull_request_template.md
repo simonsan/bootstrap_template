@@ -18,7 +18,7 @@ contributions will be licensed under:
 
 - [ ] I have read the [Contribution Guidelines](TODO) document.
 - [ ] I grant the project the right to include and distribute the code under the
-      [AGPL-3.0-or-later](TODO).
+      [AGPL-3.0-or-later](https://www.github.com/{{github-org}}/{{github-repo-name}}/blob/master/LICENSE).
 - [ ] I have added tests to cover my changes.
 - [ ] All new and existing tests passed.
 - [ ] I have updated the [internal](TODO) and [external documentation](TODO)

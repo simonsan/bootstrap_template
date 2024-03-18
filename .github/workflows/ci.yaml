@@ -135,13 +135,12 @@ jobs:
           RUSTDOCFLAGS: --cfg docsrs
 
   msrv:
-    # TODO: Project name in crate
     name: Check MSRV
     runs-on: ubuntu-latest
     strategy:
       matrix:
         crate: ["{{project-name}}"]
-        msrv: [1.74.1]
+        msrv: [TODO]
     steps:
       - uses: actions/checkout@v4
 
