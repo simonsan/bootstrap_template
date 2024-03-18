@@ -7,14 +7,6 @@
 <BADGES TODO>
 <p>
 
-### 🐑 Use `cargo generate` to Clone this Template
-
-[Learn more about `cargo generate` here.](https://github.com/ashleygwilliams/cargo-generate)
-
-```console
-cargo generate --git https://github.com/simonsan/rust_base.git --name my-project
-cd my-project
-```
 
 # {{project-name}}
 
