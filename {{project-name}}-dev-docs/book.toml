@@ -16,7 +16,7 @@ default-theme = "ayu"
 site-url = "/dev-docs/"
 git-repository-url = "https://github.com/{{github_org}}/dev-docs"
 git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/{{github_org}}/docs/edit/main/{path}"
+edit-url-template = "https://github.com/{{github_org}}/dev-docs/edit/main/{path}"
 # cname = "{{project-name}}.cli.rs"
 additional-css = ["./styles/last-changed.css"]
 
