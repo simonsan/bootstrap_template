@@ -45,22 +45,21 @@ TODO
 Tried a pace project and not satisfied? Don't just walk away! You can help:
 
 - You can report issues or suggest new features in our
-  [Github Discussions](https://github.com/orgs/{{github_org}}/discussions) or using the
-  corresponding issue trackers in the repositories down below.
+  [Github Discussions](https://github.com/orgs/{{github_org}}/discussions) or
+  using the corresponding issue trackers in the repositories down below.
 
 Do you know how to code or got an idea for an improvement? Don't keep it to
 yourself!
 
 - Contribute fixes or new features via a pull requests!
 
-Please make sure, that you read the
-[contribution guide](TODO).
+Please make sure, that you read the [contribution guide](TODO).
 
 ### 📞 Contact
 
 You can ask questions in the
-[Discussions](https://github.com/orgs/{{github_org}}/discussions) or have a look at the
-[FAQ](TODO).
+[Discussions](https://github.com/orgs/{{github_org}}/discussions) or have a look
+at the [FAQ](TODO).
 
 <table>
   <tbody align="center">

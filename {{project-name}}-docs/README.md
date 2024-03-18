@@ -10,8 +10,7 @@
 <p>
 
 An open source user documentation book for
-[pace](https://github.com/{{github_org}}/docs) that you can read
-[here](TODO).
+[pace](https://github.com/{{github_org}}/docs) that you can read [here](TODO).
 
 ## Installation
 

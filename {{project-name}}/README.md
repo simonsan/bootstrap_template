@@ -7,7 +7,6 @@
 <BADGES TODO>
 <p>
 
-
 # {{project-name}}
 
 ## About
