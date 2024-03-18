@@ -1,0 +1,266 @@
+[
+    {
+        "name": "A-architecture",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: Related to our architecture"
+    },
+    {
+        "name": "A-benchmarking",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: Related to benchmarking and performance optimisation"
+    },
+    {
+        "name": "A-ci",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: Pull requests that update CI code"
+    },
+    {
+        "name": "A-cli",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: Related to our command line interface"
+    },
+    {
+        "name": "A-commands",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: Related to our commands in general"
+    },
+    {
+        "name": "A-compatibility",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: Compatibility issue"
+    },
+    {
+        "name": "A-config",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: Related to the config file functionality and format"
+    },
+    {
+        "name": "A-core",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: Generally related to the core library"
+    },
+    {
+        "name": "A-docs",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: Improvements or additions to documentation"
+    },
+    {
+        "name": "A-encryption",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: Related to encryption"
+    },
+    {
+        "name": "A-errors",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: error handling needs improvement"
+    },
+    {
+        "name": "A-examples",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: Related to examples"
+    },
+    {
+        "name": "A-meta",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: Project wide"
+    },
+    {
+        "name": "A-packaging",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: related to packaging"
+    },
+    {
+        "name": "A-security",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: Security related"
+    },
+    {
+        "name": "A-parser",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: related to parsing"
+    },
+    {
+        "name": "A-testing",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: Testing and coverage"
+    },
+    {
+        "name": "A-ui-ux",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: Related to user interfaces and user experience"
+    },
+    {
+        "name": "C-bug",
+        "color": "D3D3D3",
+        "default": false,
+        "description": "Category: Something isn't working as expected"
+    },
+    {
+        "name": "C-duplicate",
+        "color": "D3D3D3",
+        "default": false,
+        "description": "Category: This issue or pull request already exists"
+    },
+    {
+        "name": "C-enhancement",
+        "color": "D3D3D3",
+        "default": false,
+        "description": "Category: New feature or request"
+    },
+    {
+        "name": "C-invalid",
+        "color": "D3D3D3",
+        "default": false,
+        "description": "Category: This doesn't seem right"
+    },
+    {
+        "name": "C-question",
+        "color": "D3D3D3",
+        "default": false,
+        "description": "Category: Further information is requested"
+    },
+    {
+        "name": "C-refactor",
+        "color": "D3D3D3",
+        "default": false,
+        "description": "Category: Refactoring of already existing code"
+    },
+    {
+        "name": "C-upstream",
+        "color": "D3D3D3",
+        "default": false,
+        "description": "Category: Issue for a dependency, will be fixed upstream"
+    },
+    {
+        "name": "C-wontfix",
+        "color": "D3D3D3",
+        "default": false,
+        "description": "Category: This will not be worked on"
+    },
+    {
+        "name": "C-zombie",
+        "color": "d3d3d3",
+        "default": false,
+        "description": "Category: A PR that was closed (by the author) but could still be of value"
+    },
+    {
+        "name": "A-dependencies",
+        "color": "FBCA04",
+        "default": false,
+        "description": "Area: Pull requests that update a dependency file"
+    },
+    {
+        "name": "E-help-wanted",
+        "color": "0E8A16",
+        "default": false,
+        "description": "Call for participation: Help is requested to fix this issue"
+    },
+    {
+        "name": "github-actions",
+        "color": "000000",
+        "default": false,
+        "description": "Pull requests that update GitHub Actions code"
+    },
+    {
+        "name": "O-linux",
+        "color": "2F64A9",
+        "default": false,
+        "description": "Operating system: Linux"
+    },
+    {
+        "name": "O-macos",
+        "color": "2F64A9",
+        "default": false,
+        "description": "Operating system: macOS"
+    },
+    {
+        "name": "O-musl",
+        "color": "2F64A9",
+        "default": false,
+        "description": "Target: The musl libc"
+    },
+    {
+        "name": "O-unix",
+        "color": "2F64A9",
+        "default": false,
+        "description": "Operating system: Unix-like"
+    },
+    {
+        "name": "O-windows",
+        "color": "2F64A9",
+        "default": false,
+        "description": "Operating system: Windows"
+    },
+    {
+        "name": "P-critical",
+        "color": "B60205",
+        "default": false,
+        "description": "Priority: Critical, to be fixed ASAP"
+    },
+    {
+        "name": "P-high",
+        "color": "B60205",
+        "default": false,
+        "description": "Priority: High, to be fixed at a higher priority"
+    },
+    {
+        "name": "P-low",
+        "color": "B60205",
+        "default": false,
+        "description": "Priority: low, not on current prio list"
+    },
+    {
+        "name": "perf",
+        "color": "B60205",
+        "default": false,
+        "description": "Performance: Tuning issue"
+    },
+    {
+        "name": "S-blocked",
+        "color": "D93F0B",
+        "default": false,
+        "description": "Status: Blocked from merging/working on due to some issue"
+    },
+    {
+        "name": "S-triage",
+        "color": "D93F0B",
+        "default": false,
+        "description": "Status: Waiting for a maintainer to triage this issue/PR"
+    },
+    {
+        "name": "S-waiting-for-review",
+        "color": "D93F0B",
+        "default": false,
+        "description": "Status: PRs waiting for review"
+    },
+    {
+        "name": "M-breaking",
+        "color": "D93F0B",
+        "default": false,
+        "description": "Meta: Breaking change"
+    },
+    {
+        "name": "I-panic",
+        "color": "B60205",
+        "default": false,
+        "description": "Issue: Something panicked"
+    }
+]

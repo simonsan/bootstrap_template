@@ -1,0 +1,11 @@
+/target
+**/*.rs.bk
+*.profraw
+coverage/lcov.info
+
+.vscode
+tests/generated/
+.env
+logs/*
+
+.cargo/config.toml
