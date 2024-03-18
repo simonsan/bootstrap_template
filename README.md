@@ -30,7 +30,7 @@ You can ask questions in the [Discussions](TODO) or have a look at the
 | Contact       | Where?                                                                                              |
 | ------------- | --------------------------------------------------------------------------------------------------- |
 | Issue Tracker | [GitHub Issues](TODO-REPO/issues/new/choose)                                                        |
-| Discord       | [![Discord](https://dcbadge.vercel.app/api/server/TODO?style=flat-square)](https://discord.gg/TODO) |
+| Discord       | [![Discord](https://dcbadge.vercel.app/api/server/TODO4124124e14?style=flat-square)](https://discord.gg/TODO3123131) |
 | Discussions   | [GitHub Discussions](https://github.com/orgs/TODO/discussions)                                      |
 
 ## Installation
